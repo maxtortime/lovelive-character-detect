@@ -1,0 +1,1 @@
+# lovelive-character-detect
