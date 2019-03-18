@@ -136,5 +136,8 @@ dmypy.json
 
 # End of https://www.gitignore.io/api/python,visualstudiocode
 
-card-img/
-etc/
+cards/
+rounds/
+rounds-train/
+rounds-test/
+card-img.7z
